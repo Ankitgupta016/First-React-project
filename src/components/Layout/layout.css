@@ -1,3 +1,19 @@
+.container{
+  display: flex;
+  margin-top: 50px;
+ 
+}
+.container_1{
+  width: 25%;
+}
+.container_2{
+  width: 70%;
+justify-content: center;
+  display: flex;
+  align-items: center;
+  font-weight: 900;
+  font-size: 100px;
+}
 .gold {
     width: 70%;
     cursor: pointer;
