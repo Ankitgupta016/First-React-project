@@ -1,0 +1,34 @@
+/*.gold {
+    width: 70%;
+    cursor: pointer;
+    margin: 10px 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 18px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .gold1{
+    background: rgb(248, 231, 47);
+  }
+  .Red{
+    background-color: red;
+  }
+  .green{
+    background-color: green;
+  }
+  .blue{
+    background-color: rgb(37, 37, 91);
+  }
+  .aqua{
+    background-color: aqua;
+  }
+  .brown{
+    background: #802222;
+  }
+  .pink{
+    background: pink;
+  } */
+  
